@@ -1,5 +1,6 @@
 {
   "name": "react-complete-guide",
+  "homepage": "http://YousifHmada.github.io/Burger-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -87,5 +88,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
